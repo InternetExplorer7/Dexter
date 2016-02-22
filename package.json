@@ -4,7 +4,7 @@
   "description": "Arm",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
@@ -12,9 +12,11 @@
     "bhttp": "^1.2.1",
     "bluebird": "^3.3.1",
     "body-parser": "^1.15.0",
+    "cfenv": "^1.0.3",
     "express": "^4.13.4",
     "facebook-chat-api": "^1.0.6",
     "install": "^0.4.4",
+    "mongoose": "^4.4.4",
     "node-uuid": "^1.4.7",
     "node-wit": "^2.0.0",
     "npm": "^3.7.3",
